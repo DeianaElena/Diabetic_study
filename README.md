@@ -16,7 +16,7 @@ Here is a list of a brief summary of each file's content:
 
 - 'CardiacPrediction_csv', it is the dataset mentioned in the paper and taken from the National Health and Nutrition Examination Survey. 
  
-- 'Diabetics Prediction (ML) CV=10', it is the code from this repository here.
+- 'Diabetics Prediction (ML) CV=10', it is the code from this repository [here](https://github.com/AmitHasanShuvo/Prediction-of-Clinical-Risk-Factors-of-Diabetes-Using-ML-Resolving-Class-Imbalance).
 
 - 'Common_features_Diabetics Prediction (ML) CV=10', it is an edited version of the original code, where less features are taken into account, according to the one presents in the Lab. Additionally there is an accuracy and f1 score table for comparison with original code.
 
