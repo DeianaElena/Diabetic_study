@@ -1,7 +1,7 @@
 # Diabetic_study
 
 
-## Title: Prediction of Clinical Risk Factors of Diabetes
+## Prediction of Clinical Risk Factors of Diabetes
 The paper "Prediction of Clinical Risk Factors of Diabetes Using Multiple Machine Learning Techniques Resolving Class Imbalance" is used for the diabetic study.
 
 
