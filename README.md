@@ -6,7 +6,7 @@ The paper "Prediction of Clinical Risk Factors of Diabetes Using Multiple Machin
 
 
 ## The project's aim
-The aim is to optimize the code present here, manipulate the dataframe and evaluate dfferences with the original paper conclusions.  
+The aim is to optimize the paper's code, manipulate the dataframe according to the features present in the lab and evaluate dfferences with the paper's conclusions.  
 
 ## Content
 The folder contains different files that can be open/run separately. 
